@@ -5,27 +5,42 @@ Who We're Looking For: We seek high-performing individuals who thrive under pres
 Arrive early - parking fills quickly and the hotel has several flights of stairs from the parking garage Dress professionally and be prepared to stand for extended periods Bring multiple copies of your resume to distribute as you move between stations Be ready to showcase your communication skills in rapid-fire conversations
 No RSVP required - just show up ready to impress! We look forward to meeting candidates who fit our high-energy culture.
 ## Debiased Content
-**JOIN OUR TEAM! Career Fair at First National Bank**
-First National Bank invites ambitious professionals to our upcoming career fair on Saturday, November 16th, 9:00 AM - 4:00 PM at the Grand Plaza Hotel, Ballroom Level. We are looking for candidates who are eager to contribute effectively to our dynamic banking environment! This is your opportunity to meet our hiring managers and make a strong first impression.
-**Accessibility:**
-We are committed to providing an inclusive and accessible environment for all candidates. Please contact us at [Insert Contact Info] to request any accommodations you may need to participate fully.
+JOIN OUR TEAM! Career Fair at First National Bank
+First National Bank invites motivated, ambitious professionals to our upcoming career fair on Saturday, November 16th, 9:00 AM - 4:00 PM at the Grand Plaza Hotel, Ballroom Level. We're looking for candidates who are eager to contribute immediately to our dynamic banking environment! This is your opportunity to meet our hiring managers and make a strong first impression.
 **What to Expect:**
-*   Visit multiple department booths throughout the accessible ballroom.
-*   Participate in brief interviews with hiring managers.
-*   Attend our 30-minute presentation at 10:00 AM and 2:00 PM (seating will be available).
-*   Network with our team members during our continental breakfast reception.
+*   Visit multiple department booths throughout the ballroom
+*   Participate in brief interviews with hiring managers
+*   Attend our 30-minute presentation at 10:00 AM and 2:00 PM (Seating is limited; priority seating available upon request)
+*   Network with our team members during our continental breakfast reception
 **Who We're Looking For:**
-We seek dedicated individuals who are committed to excellence and can meet our industry-leading standards. Candidates should be willing to travel, work flexible hours, and work in a collaborative open-office culture.
+We seek high-performing individuals who excel in dynamic environments and are committed to our industry-leading standards. The role involves travel, flexible work hours, and collaboration within an open-office culture.
 **Tips for Success:**
-*   Arrive early – parking fills quickly. Accessible parking and elevator access to the Ballroom Level are available.
-*   Dress professionally and be prepared for periods of standing or sitting, as preferred.
+*   Arrive early - parking fills quickly. Accessible parking and elevator access are available from the parking garage.
+*   Dress professionally. Comfortable footwear is recommended.
 *   Bring multiple copies of your resume to distribute as you move between stations.
-*   Be ready to showcase your communication skills in engaging conversations.
-No RSVP required - just show up ready to share your skills! We look forward to meeting candidates who will contribute to our collaborative culture.
+*   Be ready to showcase your communication skills in brief, engaging conversations.
+No RSVP required. We look forward to meeting candidates who share our passion for excellence.
+*For accessibility accommodations, please contact [Insert Contact Info].*
 ## Justification
-The original text contained several instances of implicit ableism and exclusionary language that have been revised based on the *APA Language Guide*, the *Canadian Disability Communication Guide*, and the *NCDJ Style Guide*.
-1.  **Removal of Ableist Idioms and "Pace" Language:** Phrases like "hit the ground running," "fast-paced," and "keep pace" were removed or replaced. These idioms imply a requirement for a specific physical speed or neurotypical processing style, which can exclude individuals with physical disabilities or neurodivergence. The *APA Language Guide* advises avoiding ableist terms that denigrate disabilities or imply that a specific level of physical function is the only "normal."
-2.  **Elimination of Physical Barriers:** The original text explicitly mentioned "standing room only" and "flights of stairs," creating direct barriers for individuals with mobility impairments. This violates the principles of **Universal Design** and **Accessibility** highlighted in the *Canadian Disability Communication Guide*. The revised text ensures seating is available and proactively mentions accessible parking and elevators.
-3.  **Inclusive "Energy" and Culture:** References to "energetic," "high-energy culture," and "thrive under pressure" were replaced with "ambitious," "dynamic," and "collaborative." The original phrasing implicitly values a specific type of extroverted, high-stamina performance that may alienate qualified candidates with chronic health conditions, fatigue, or different working styles. The *Canadian Disability Communication Guide* warns against language that ties a person's value to a specific mode of productivity.
-4.  **Communication Styles:** The phrase "rapid-fire conversations" was changed to "engaging conversations." The original term could disadvantage individuals with speech disabilities (e.g., stuttering) or processing delays, as noted in the *NCDJ Style Guide* regarding inclusive language for communication differences.
-5.  **Proactive Accessibility Information:** A section on accessibility was added to explicitly invite accommodation requests. This shifts the burden from the candidate to the organizer, aligning with the *APA* and *Canadian* guides' emphasis on creating inclusive environments where accessibility is a forethought, not an afterthought.
+Based on the analysis of the **APA Inclusive Language Guide**, the **NCDJ Style Guide**, and the **Canadian Disability Communication Guide**, the following changes were made to remove ableist language and implicit bias:
+**Removed "energetic" and "high-energy culture"**
+*   **Why:** These terms implicitly prioritize physical stamina and can exclude individuals with chronic fatigue, physical disabilities, or different neurotypes who may be highly capable but express energy differently. The **Canadian Disability Communication Guide** warns against language that ties a person's value to their ability to be "productive" in a specific, physical way.
+*   **Alternative:** Replaced with "motivated" and "passion for excellence," which focus on professional attitude rather than physical output.
+**Eliminated "hit the ground running"**
+*   **Why:** The **APA Language Guide** explicitly lists "hit the ground running" as an ableist idiom to avoid. It relies on a physical metaphor that equates professional competence with physical mobility.
+*   **Alternative:** Changed to "eager to contribute immediately," which conveys the same urgency without the ableist framing.
+**Changed "standing room only" and "prepared to stand for extended periods"**
+*   **Why:** These phrases create direct barriers for individuals with mobility impairments or chronic pain. The **Canadian Guide** and **APA Guide** emphasize "Universal Design" and "Accessibility," stating that environments should be usable by all people without need for adaptation. Explicitly stating "standing room only" signals exclusion.
+*   **Alternative:** Modified to indicate that seating is limited but available upon request, and removed the instruction to prepare to stand, replacing it with a recommendation for comfortable footwear.
+**Addressed "several flights of stairs"**
+*   **Why:** Highlighting stairs as the primary route without mentioning an accessible alternative (like an elevator) is a significant barrier. The **NCDJ Style Guide** and **Canadian Guide** emphasize that accessibility information is crucial. Warning about stairs without offering an alternative implies that those who cannot use stairs are not expected or welcome.
+*   **Alternative:** Added information about accessible parking and elevator access, assuming a debiased event would utilize an accessible venue.
+**Removed "thrive under pressure" and "keep pace"**
+*   **Why:** "Keep pace" is another physical metaphor that can be exclusionary. "Thrive under pressure" can disadvantage neurodivergent candidates (e.g., those with anxiety or autism) who may perform excellently in structured environments but find "pressure" to be a barrier rather than a motivator.
+*   **Alternative:** Rephrased to "excel in dynamic environments" and "committed to... standards," focusing on the outcome rather than the mode of working.
+**Changed "rapid-fire conversations"**
+*   **Why:** This phrase implies a speed of processing and speech that can exclude individuals with speech impediments, hearing loss, or processing delays. The **NCDJ Guide** advises against terms that imply a "deficit" in communication.
+*   **Alternative:** "Brief, engaging conversations" maintains the context of a busy fair without setting an exclusionary standard for communication speed.
+**Reframed "comfortable with frequent travel..."**
+*   **Why:** Stating candidates must be "comfortable" with these demands can imply that no accommodations will be made.
+*   **Alternative:** Stated these as objective job requirements ("The role involves..."), which allows space for candidates to request reasonable accommodations if needed, rather than self-selecting out because they aren't "comfortable."
